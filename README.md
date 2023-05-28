@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayun128&langs_count=8)](https://github.com/hayun128/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayun128&show_icons=true&theme=radical)
+ <div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayun128&show_icons=true&theme=radical)</div>
