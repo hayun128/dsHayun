@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=puter&text=capsule%20render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=puter&text=capsule%20render&fontSize=80)
 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
