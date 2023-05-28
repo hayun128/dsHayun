@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=puter&text=capsule%20render&fontSize=80)
+//헤더
 
-  <div align=center><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></div>
+  <div align=center><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayun128&langs_count=8)](https://github.com/hayun128/github-readme-stats)
